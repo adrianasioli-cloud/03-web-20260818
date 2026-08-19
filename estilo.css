@@ -1,0 +1,41 @@
+*{
+    font: size 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    border: 0.2rem solid #15aee1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    border: 0.2rem solid red;
+
+}
+
+.logo {
+    border: 0.2rem solid orange;
+
+}
+
+section {
+    border: 0.2rem solid blue;
+}
+
+nav {
+    border: 0.2rem solid yellow;
+}
+
+main {
+    border: 0.2rem solid purple;
+}
+
+footer {
+    border: 0.2rem solid green;
+
+}
