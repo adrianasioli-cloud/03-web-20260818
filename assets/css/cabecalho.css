@@ -53,11 +53,11 @@ header {
  
 }
 
-.menu-hamburguer:hover i { /* efeito na div*/
+.menu-hamburguer:hover i { /* mouse na div efeito no icone*/
     color: #eee;
 }
     
 
-.menu-hamburguer i:hover { /* efeito no icone*/
+.menu-hamburguer i:hover { /* mouse no icone, efeito no icone*/
     color: white;
 }

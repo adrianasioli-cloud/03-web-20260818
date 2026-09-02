@@ -22,27 +22,12 @@ body {
 
 
 
-
-
 .titulo {
     /* border: 0.2rem solid yellow; */
     flex: 1;
     width: 100%;
 }
-section {
-    /* border: 0.2rem solid blue; */
-    display: flex;
-    flex: 1;
-    
-}
 
-nav {
-    /* border: 0.2rem solid yellow; */
-    width: 10rem;
-    background-color: #eee;
-    padding: 0.5rem;
-
-}
 
 main {
     /* border: 0.2rem solid purple; */
@@ -51,12 +36,5 @@ main {
     padding: 0.5rem;
 }
 
-footer {
-    /* border: 0.2rem solid green; */
-    height: 4rem;
-    padding: 0.5rem;
-    background-color: #252323;
-    color: #eee;
 
-}
 
