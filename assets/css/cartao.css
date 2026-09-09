@@ -23,7 +23,7 @@
     justify-content: space-between; 
     margin-top: 0.5rem;
 }
-.titulo-do-cartao {
+.titulo-da-noticia {
     font-size: 1.5rem;
     font-weight: bold;
     margin: 0.5rem 0rem;
@@ -34,16 +34,15 @@
     justify-content: space-between;
     margin-bottom: 0.5rem;
 }
-.categoria-da-noticia,
-.data-da-noticia,
-.autor-da-noticia {
-    font-size: 0.7rem;
-}
+
+
 .categoria-da-noticia {
     color: green;
+    font-size: 0.7rem;
 }
 .data-da-noticia {
     color: red;
+    font-size: 0.7rem;
 }
 .descricao-da-noticia {
     margin-bottom: 0.5rem;
@@ -52,6 +51,7 @@
 .autor-da-noticia {
     font-style: italic;
     font-weight: bold;
+    font-size: 0.7rem;
 }
 .botao-do-cartao {
     max-width: 100%;
