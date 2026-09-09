@@ -6,13 +6,6 @@ section {
     
 }
 
-nav {
-    /* border: 0.2rem solid yellow; */
-    width: 10rem;
-    background-color: #eee;
-    padding: 0.5rem;
-
-}
 .container {
   /* border: 0.1rem solid purple; */
   display: flex;
