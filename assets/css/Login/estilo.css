@@ -1,4 +1,3 @@
-
 @import url(cabecalho.css);
 @import url(painel.css);
 
@@ -9,6 +8,7 @@
     padding: 0rem;
     box-sizing: border-box;
 }
+
 body {
     min-height: 100vh;
     display: flex;
