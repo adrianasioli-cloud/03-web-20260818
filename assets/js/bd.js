@@ -1,4 +1,4 @@
 export const usuario = {
- "email": "admin@email.com"
- "senha": "123456"
-}
+ "email": "admin@email.com",
+ "senha": "admin"
+};
